@@ -15,15 +15,18 @@ All required design assets (PNG/SVG) have been sent to your registered email add
 
 ---
 
-## ✅ What You Need to Do
+## 🛠️ Important Instructions
 
-1. **Fork this repository** to your own GitHub account.
+1. **Fork this repository** to your own GitHub account.  
 2. Create a new branch (optional but preferred):  
-   `git checkout -b your-name-task`
-3. Build the screen using your preffered tech stack apart from Flutter. (If you wish to develope using flutter immediately mail techcatalift@gmail.com with subject "Change task repo")
-4. Maintain a clean and modular code structure.
-5. Commit and push your code to your forked repository.
-6. Submit the link to your public fork using the official submission form.
+   `git checkout -b your-name-task`  
+3. Build the screen using your preferred **native tech stack for Android or iOS** (excluding Flutter).  
+   - If you wish to develop using Flutter, please email **techcatalift@gmail.com** with the subject line: **"Change Task Repo"**  
+4. After development, **record a short video** demonstrating the working screen and upload it to your **Google Drive**.  
+   - Share the Drive link using the submission form provided via email.  
+5. Maintain a **clean and modular code structure**.  
+6. Commit and push your code to your forked repository.  
+7. Submit the link to your **public fork** through the official submission form.  
 
 ---
 
